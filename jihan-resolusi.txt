@@ -3,3 +3,4 @@ JIHAN RESOLUSI
 -Membuat aplikasi "Perpustakaan online"
 -Menjadi programer yang handal
 -Menjadi penulis lepas
+-Membuat Aplikasi jual beli yang memamerkan karya karya saya
