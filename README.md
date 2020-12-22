@@ -1,2 +1,2 @@
 # jihan-resolusi
-Repository untuk menyimpan project jihan kedepannya
+Repository untuk Menyimpan rencana saya kedepannya 
